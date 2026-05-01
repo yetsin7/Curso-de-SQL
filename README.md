@@ -3,7 +3,7 @@
 > Repositorio gratuito y abierto para aprender SQL desde absolutamente cero hasta nivel profesional.
 > Sin cursos de pago. Sin registros. Solo abre una terminal y empieza.
 
-Repo en GitHub: https://github.com/yetsin7/curso-de-sql
+Repo en GitHub: https://github.com/yetsin7/Curso-de-SQL
 
 ---
 
@@ -114,7 +114,7 @@ Desde el capítulo 4 en adelante usamos la **Biblia Reina-Valera 1960** como dat
 El archivo está dentro de este mismo repositorio:
 
 ```
-curso-de-sql/datos/biblia_rv60.sqlite3
+Curso-de-SQL/datos/biblia_rv60.sqlite3
 ```
 
 Desde cualquier capítulo de este libro, la ruta relativa es:
@@ -205,7 +205,7 @@ conn.close()
 
 Si este libro te sirvió, hay varias formas de ayudar a que llegue a más personas:
 
-- ⭐ **Dale una estrella** al repositorio en GitHub: https://github.com/yetsin7/curso-de-sql
+- ⭐ **Dale una estrella** al repositorio en GitHub: https://github.com/yetsin7/Curso-de-SQL
 - 📣 **Compártelo** con amigos, familiares, compañeros de clase o colegas que quieran aprender. En grupos de WhatsApp, Discord o Telegram de programadores nicaragüenses también es bienvenido.
 - 🐛 **Abre un issue** si encuentras un error, una explicación confusa o una mejora posible.
 - 🔧 **Manda un pull request** con correcciones, nuevos ejercicios o ejemplos. Toda contribución suma.
